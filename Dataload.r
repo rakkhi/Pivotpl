@@ -18,3 +18,9 @@ Q12018RespData$answer_num <-
       )
     )
   )
+
+#show column headers test
+colnames(Q12018RespData)
+
+#show response_num data test
+Q12018RespData$answer_num
